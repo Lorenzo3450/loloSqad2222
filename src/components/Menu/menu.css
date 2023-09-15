@@ -1,0 +1,35 @@
+
+.menu {
+    background-color: #ffffff;
+    color: 081F39;
+    text-align: center;
+    display: 'inline';
+    height: 50px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .menu ul li {
+    display: inline-table;
+    margin-right: 85px;
+    line-height: 50px;
+    
+  }
+  
+  .menu ul li a {
+    text-decoration: none;
+    color: #081F39;
+    font-weight: bold;
+    font-size: 20px;
+    
+  }
+  
+  .menu ul li a:hover {
+    color: #5C9BB0; 
+  }
+  
